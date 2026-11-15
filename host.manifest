@@ -1,0 +1,10 @@
+CACHE MANIFEST
+# SHERIF EID GAMING HOST offline landing page
+
+CACHE:
+index.html
+style.css
+img.jpg
+
+NETWORK:
+*
